@@ -2,6 +2,7 @@
 To download the source code of IpaSpeak click on the release tab.
 
 /Intro
+
 IpaSpeak is composed of two components: 
 
 -The back- end is the espeak vocal synthesizer (http://espeak.sourceforge.net/) which generates the audio and uses an ASCII version of the International Phonetic Alphabet. Espeak is a traditional text- to - speech program that takes the orthographical form of a word and produces its pronunciation. 
